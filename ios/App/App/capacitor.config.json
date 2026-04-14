@@ -1,0 +1,6 @@
+{
+	"appId": "com.lumina.editor",
+	"appName": "Lumina Editor",
+	"webDir": "dist",
+	"packageClassList": []
+}
